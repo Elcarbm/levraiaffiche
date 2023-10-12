@@ -1,0 +1,12 @@
+.img1{
+    height: 350px;
+    width: 500px;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    z-index: 1;
+}
+section{
+    position: absolute;
+    top: 58%;
+}
